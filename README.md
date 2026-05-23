@@ -2,7 +2,7 @@
 
 Turn messy **CSV text** into **JSONL training data** for LLM fine-tuning — with a web UI, REST API, and one-click deploy.
 
-[![Live Demo](https://img.shields.io/badge/demo-live-2f5d50?style=for-the-badge)](https://cleanllm-saas.onrender.com)
+[![Live Demo](https://img.shields.io/badge/demo-live-2f5d50?style=for-the-badge)](https://clean-llm-dataset-pipeline.vercel.app/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat)](LICENSE)
