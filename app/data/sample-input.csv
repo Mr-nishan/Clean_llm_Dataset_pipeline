@@ -1,0 +1,5 @@
+text
+"Machine learning models need clean training data."
+"Duplicate rows and empty cells slow down fine-tuning."
+"CleanLLM turns raw CSV text into JSONL pairs for LLM workflows."
+"Upload a file, download a dataset — simple pipeline for demos."
